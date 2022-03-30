@@ -1,4 +1,11 @@
-### Hi there 👋
+### Howdy, My Name Is Austin Lewis
+
+# What I Am Good At
+- Writing Backends In Django / Django Rest Framework
+- Writing Frontends In React
+- Data Analysis Preferably With R But I Like Python Too
+- Managing Postgres DB's 
+
 
 <!--
 **avlewis/avlewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
